@@ -65,11 +65,7 @@ Currently, there are 2 ways to login either you provide your refresh token or yo
 * Start/stop charging
 * Unlock charging port
 
-## Feature request
-
-If there is some feature that you want to be implemented in the app, create a issue on [this](https://github.com/haha150/wTesla-IOS) github page and i will take a look.
-
-## Have questions or require assistance?
+## Feature request, bugs, questions or require assistance
 
 Create a issue on [this](https://github.com/haha150/wTesla-IOS) github page.
 
@@ -82,6 +78,14 @@ I will never ask for donations, however if you like the app and would like to he
 ## Privacy Policy
 
 See [Privacy Policy](https://haha150.github.io/wTesla/privacy) page.
+
+## A note about security and privacy
+
+This app accepts two types of login. Either Tesla API refresh token or a Tesla API token to be downloaded. Your API token is stored locally in the watch by default and used only to obtain/refresh an access token and refresh token directly from the Tesla API server. It is also only supplied once and then maintained by the app. It is preferable to supply a refresh token, as the app will then have a perpetual login. Your token will be persisted in the app. Tokens will be revoked if you change your Tesla account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the Tesla API servers or the initial authentication where you can specify where to download your token from.
+
+## Disclaimer
+
+This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.
 
 ## Some screenshots:
 
