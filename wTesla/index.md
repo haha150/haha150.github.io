@@ -1,5 +1,7 @@
 # wTesla
 
+<img src="images/wt.png" width="100">
+
 This project is a standalone Tesla app for the Apple watch with all the features that the official Tesla app has.
 
 The app is still being developed to finish implementing all features that the official Tesla app has as well as the competitor has.
@@ -78,5 +80,23 @@ I will never ask for donations, however if you like the app and would like to he
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=88CWQTFPPYNJ4&no_recurring=1&item_name=Tesla+Apple+Watch&currency_code=EUR)
 
+## Privacy policy
+
+See [privacy policy](https://haha150.github.io/wTesla/privacy) page.
 
 ## Some screenshots:
+
+<p float="left">
+    <img src="images/loadapp.png" width="200">
+    <img src="images/logintoken.png" width="200">
+    <img src="images/loginweblink.png" width="200">
+    <img src="images/vehicles.png" width="200">
+    <img src="images/loggingin.png" width="200">
+    <img src="images/asleep.png" width="200">
+    <img src="images/online.png" width="200">
+    <img src="images/actions.png" width="200">
+    <img src="images/climate.png" width="200">
+    <img src="images/climate2.png" width="200">
+    <img src="images/charging.png" width="200">
+    <img src="images/notcharging.png" width="200">
+</p>
