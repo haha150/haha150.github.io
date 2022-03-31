@@ -6,7 +6,7 @@
 
 This project is a standalone Tesla app for the Apple watch with all the features that the official Tesla app has.
 
-The app is still being developed to finish implementing all features that the official Tesla app has as well as the competitor has.
+The app is still being developed to finish implementing all features that the official Tesla app has. It will continue to receive new features if requested and if Tesla adds additional features.
 
 ## Login
 
