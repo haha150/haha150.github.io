@@ -39,9 +39,8 @@ Currently, there are 2 ways to login either you provide your refresh token or yo
 
 ## Current features
 
-* Login with refresh token
-* Login with full token
-* Logout
+* Authenticate with refresh token
+* Authenticate with full token
 * List all vehicles
 * Select specific vehicle
 * Wake up vehicle
