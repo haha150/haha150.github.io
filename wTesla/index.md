@@ -2,6 +2,8 @@
 
 <img src="images/wt.png" width="100">
 
+**Created by: Ali Symeri**
+
 This project is a standalone Tesla app for the Apple watch with all the features that the official Tesla app has.
 
 The app is still being developed to finish implementing all features that the official Tesla app has as well as the competitor has.
