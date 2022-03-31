@@ -51,7 +51,7 @@ Currently, there are 2 ways to login either you provide your refresh token or yo
 * Open frunk
 * Open/close trunk
 * Turn on/off sentry mode
-* Open/close charge port
+* Open/close charging port
 * Honk horn
 * Flash lights
 * Remote start
