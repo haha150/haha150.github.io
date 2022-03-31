@@ -85,7 +85,7 @@ This app accepts two types of login. Either Tesla API refresh token or a Tesla A
 
 ## Disclaimer
 
-This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your car caused by using this app.
+This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of proper function is given. Only you are responsible for any changes to your vehicle caused by using this app.
 
 ## Some screenshots:
 
