@@ -80,9 +80,9 @@ I will never ask for donations, however if you like the app and would like to he
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=88CWQTFPPYNJ4&no_recurring=1&item_name=Tesla+Apple+Watch&currency_code=EUR)
 
-## Privacy policy
+## Privacy Policy
 
-See [privacy policy](https://haha150.github.io/wTesla/privacy) page.
+See [Privacy Policy](https://haha150.github.io/wTesla/privacy) page.
 
 ## Some screenshots:
 
