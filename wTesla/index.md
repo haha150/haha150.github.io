@@ -8,9 +8,9 @@ This project is a standalone Tesla app for the Apple watch with all the features
 
 The app is still being developed to finish implementing all features that the official Tesla app has. It will continue to receive new features if requested and if Tesla adds additional features.
 
-## Login
+## Authorization
 
-Currently, there are 2 ways to login either you provide your refresh token or you have to provide your full token to the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
+Currently, there are 2 ways to Authorize with the Tesla API either you provide your refresh token or you have to provide your full token to the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
 
 ```
 {
@@ -22,22 +22,22 @@ Currently, there are 2 ways to login either you provide your refresh token or yo
 }
 ```
 
-### Alternative 1: Steps to login with refresh token
+### Alternative 1: Steps to Authorize with refresh token
 
 1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication)
 2. Copy the refresh_token
-3. Provide the refresh_token in the app login page, you only need to this one time
+3. Provide the refresh_token in the app Authorize page, you only need to this one time
 4. Enjoy
 
-### Alternative 2: Steps to login with full token
+### Alternative 2: Steps to Authorize with full token
 
 1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication)
 2. Save it to a file
-3. Host the file on a webserver/fileserver that the app can access
-4. Provide the link to the token in the app login page, you only need to this one time
+3. Host the file on a webserver/fileserver that the app can access and download from
+4. Provide the link to the token in the app Authorize page, you only need to this one time
 5. Enjoy
 
-> The reason the app uses this way to login is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
+> The reason the app uses this way to Authorize is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
 
 ## Current features
 
@@ -83,7 +83,7 @@ See [Privacy Policy](https://haha150.github.io/wTesla/privacy) page.
 
 ## A note about security and privacy
 
-This app accepts two types of login. Either Tesla API refresh token or a Tesla API token to be downloaded. Your API token is stored locally in the watch by default and used only to obtain/refresh an access token and refresh token directly from the Tesla API server. It is also only supplied once and then maintained by the app. It is preferable to supply a refresh token, as the app will then have a perpetual login. Your token will be persisted in the app. Tokens will be revoked if you change your Tesla account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the Tesla API servers or the initial authentication where you can specify where to download your token from.
+This app accepts two types of Authorization. Either Tesla API refresh token or a Tesla API full token to be downloaded. Your API token is stored locally in the watch by default and is only used to obtain/refresh an access token and refresh token directly from the Tesla API server. It is also only supplied once and then maintained by the app. It is preferable to supply a refresh token, as the app will then have a perpetual Authorization. Your token will be persisted in the watch. Tokens will be revoked if you change your Tesla account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the Tesla API servers or the initial Authorization where you can specify where to download your token from.
 
 ## Disclaimer
 
