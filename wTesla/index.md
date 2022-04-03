@@ -77,7 +77,7 @@ See [Privacy Policy](https://haha150.github.io/wTesla/privacy) page.
 
 ## A note about security and privacy
 
-This app accepts two types of Authorization. Either Tesla API refresh token or a Tesla API full token to be downloaded. Your API token is stored locally in the watch by default and is only used to obtain/refresh an access token and refresh token directly from the Tesla API server. It is also only supplied once and then maintained by the app. It is preferable to supply a refresh token, as the app will then have a perpetual Authorization. Your token will be persisted in the watch. Tokens will be revoked if you change your Tesla account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the Tesla API servers or the initial Authorization where you can specify where to download your token from.
+This app accepts one type of Authorization. A Tesla API token to be downloaded. Your API token is stored locally in the watch by default and is only used to obtain/refresh an access token and refresh token directly from the Tesla API server. It is also only supplied once and then maintained by the app. It is preferable to supply a refresh token, as the app will then have a perpetual Authorization. Your token will be persisted in the watch. Tokens will be revoked if you change your Tesla account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the Tesla API servers or the initial Authorization where you can specify where to download your token from.
 
 ## Disclaimer
 
