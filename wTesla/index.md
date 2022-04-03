@@ -10,7 +10,7 @@ The app is still being developed to finish implementing all features that the of
 
 ## Authorization
 
-Currently, there are 2 ways to Authorize with the Tesla API either you provide your refresh token or you have to provide your full token to the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
+Currently, there is one way to Authorize with the Tesla API in the app, you provide a download link to your token in the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
 
 ```
 {
@@ -22,16 +22,11 @@ Currently, there are 2 ways to Authorize with the Tesla API either you provide y
 }
 ```
 
-### Alternative 1: Steps to Authorize with refresh token
+> refresh_token is mandatory, the rest are optional.
 
-1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication)
-2. Copy the refresh_token
-3. Provide the refresh_token in the app Authorize page, you only need to this one time
-4. Enjoy
+### Steps to Authorize with token
 
-### Alternative 2: Steps to Authorize with full token
-
-1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication)
+1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication) guide
 2. Save it to a file
 3. Host the file on a webserver/fileserver that the app can access and download from
 4. Provide the link to the token in the app Authorize page, you only need to this one time
