@@ -36,8 +36,7 @@ Currently, there is one way to Authorize with the Tesla API in the app, you prov
 
 ## Current features
 
-* Authorization with refresh token
-* Authorization with full token
+* Authorization with token
 * List all vehicles
 * Select specific vehicle
 * Wake up vehicle
