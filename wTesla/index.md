@@ -88,10 +88,9 @@ This app is not endorsed by Tesla Inc. Use at your own risk. No guarantee of pro
 
 <p float="left">
     <img src="images/loadapp.png" width="200">
-    <img src="images/logintoken.png" width="200">
-    <img src="images/loginweblink.png" width="200">
-    <img src="images/vehicles.png" width="200">
+    <img src="images/auth.png" width="200">
     <img src="images/loggingin.png" width="200">
+    <img src="images/vehicles.png" width="200">
     <img src="images/asleep.png" width="200">
     <img src="images/online.png" width="200">
     <img src="images/actions.png" width="200">
