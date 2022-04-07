@@ -8,7 +8,7 @@ This project is a standalone Tesla app for the Apple watch with all the features
 
 The app is still being developed to finish implementing all features that the official Tesla app has. It will continue to receive new features if requested and if Tesla adds additional features.
 
-## Authorization
+## Token
 
 Currently, there is one way to Authorize with the Tesla API in the app, you provide a download link to your token in the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
 
