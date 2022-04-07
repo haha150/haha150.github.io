@@ -24,19 +24,19 @@ Currently, there is one way to Authorize with the Tesla API in the app, you prov
 
 > refresh_token is mandatory, the rest are optional. Effectively you are Authenticating towards Tesla yourself (outside the app) and extracting your personal Token which you provide to the app for it to work for your account.
 
-### Steps to Authorize with token
+### Steps to generate and provide token to app
 
 1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication) guide
 2. Save it to a file
 3. Host the file on a webserver/fileserver that the app can access and download from
-4. Provide the link to the token in the app Authorize page, you only need to this one time
+4. Provide the link to the token in the app Token page, you only need to this one time
 5. Enjoy
 
-> The reason the app uses this way to Authorize is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
+> The reason the app uses this way to handle your Token is due to Teslas authentication process, as soon as they provide a better way to authenticate and authorize using e.g. credentials, i will update the app.
 
 ## Current features
 
-* Authorization with token
+* Download your token
 * List all vehicles
 * Select specific vehicle
 * Wake up vehicle
