@@ -1,4 +1,4 @@
-# wTesla - Watch app
+# wTesla - Watch app for Tesla
 
 <img src="images/wt.png" width="100">
 
@@ -10,7 +10,7 @@ The app is still being developed to finish implementing all features that the of
 
 ## Token
 
-Currently, there is one way to Authorize with the Tesla API in the app, you provide a download link to your token in the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
+Currently, there is only one way to Authorize with the Tesla API in the app, you provide a download link to your token in the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
 
 ```
 {
