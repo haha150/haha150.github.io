@@ -10,7 +10,7 @@ Your token is unique to your EV account and it is used to call the EV API so tha
 
 ### How do i generate my token?
 
-See the documentation on [wT Authorization section](https://haha150.github.io/wT/).
+See the documentation on [wT Token section](https://haha150.github.io/wT/).
 
 ### My question is not listed here
 
