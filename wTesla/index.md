@@ -71,7 +71,7 @@ See [support](https://haha150.github.io/wT/support).
 
 I will never ask for donations, however if you like the app and would like to help out, you can donate if you wish
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=88CWQTFPPYNJ4&no_recurring=1&item_name=Tesla+Apple+Watch&currency_code=EUR)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=88CWQTFPPYNJ4&no_recurring=1&item_name=wT+-+Watch+app+for+EV&currency_code=EUR)
 
 ## Privacy Policy
 
