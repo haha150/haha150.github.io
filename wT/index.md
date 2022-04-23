@@ -1,16 +1,18 @@
-# wT - Watch app for EV
+# wT - Watch app for Tesla
 
 <img src="images/wt.png" width="100">
 
 **Created by: Ali Symeri (haha150)**
 
-This project is a standalone EV app for the Apple watch with all the features that the official EV app has.
+This project is a standalone EV app for Tesla for the Apple watch with all the features that the official Tesla app has.
 
-The app is still being developed to finish implementing all features that the official EV app has. It will continue to receive new features if requested and if the EV app adds additional features.
+The app is still being developed to finish implementing all features that the official Tesla app has. It will continue to receive new features if requested and if the Tesla app adds additional features.
+
+<a href="https://apps.apple.com/us/app/wt-watch-app-for-tesla/id1619520846?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1650067200&h=f0472da4e15471343332be1dcdc56ae8" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 ## Token
 
-Currently, there is only one way to Authorize with the EV API in the app, you provide a download link to your token in the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
+Currently, there is only one way to Authorize with the Tesla API in the app, you provide a download link to your token in the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
 
 ```
 {
@@ -22,7 +24,7 @@ Currently, there is only one way to Authorize with the EV API in the app, you pr
 }
 ```
 
-> refresh_token is mandatory, the rest are optional. Effectively you are Authenticating towards EV API yourself (outside the app) and extracting your personal Token which you provide to the app for it to work for your account.
+> refresh_token is mandatory, the rest are optional. Effectively you are Authenticating towards Tesla API yourself (outside the app) and extracting your personal Token which you provide to the app for it to work for your account.
 
 ### Steps to generate and provide token to app
 
@@ -32,7 +34,7 @@ Currently, there is only one way to Authorize with the EV API in the app, you pr
 4. Provide the link to the token in the app Token page, you only need to this one time
 5. Enjoy
 
-> The reason the app uses this way to handle your Token is due to the EV authentication process, as soon as they provide a better way to authenticate and authorize using e.g. credentials, i will update the app.
+> The reason the app uses this way to handle your Token is due to the Tesla authentication process, as soon as they provide a better way to authenticate and authorize using e.g. credentials, i will update the app.
 
 ## Current features
 
@@ -79,7 +81,7 @@ See [Privacy Policy](https://haha150.github.io/wT/privacy) page.
 
 ## A note about security and privacy
 
-This app accepts one type of Authorization. A EV API token to be downloaded. Your API token is stored locally in the watch by default and is only used to obtain/refresh an access token and refresh token directly from the EV API server. It is also only supplied once and then maintained by the app. It is preferable to supply a refresh token, as the app will then have a perpetual Authorization. Your token will be persisted in the watch. Tokens will be revoked if you change your EV account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the EV API servers or the initial Authorization where you can specify where to download your token from.
+This app accepts one type of Authorization. An API token to be downloaded. Your API token is stored locally in the watch by default and is only used to obtain/refresh an access token and refresh token directly from the EV API server. It is also only supplied once and then maintained by the app. It is preferable to supply a refresh token, as the app will then have a perpetual Authorization. Your token will be persisted in the watch. Tokens will be revoked if you change your EV account password. No network traffic will ever be emitted from this app that goes anywhere other than directly to the EV API servers or the initial Authorization where you can specify where to download your token from.
 
 ## Disclaimer
 
