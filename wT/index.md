@@ -58,6 +58,8 @@ Currently, there is only one way to Authorize with the Tesla API in the app, you
 * Set climate temperature
 * Defrost vehicle
 * Turn on/off steering wheel heater
+* Turn on/off seat heaters
+* Set climate mode
 * View charging stats
 * Set charging limit
 * Start/stop charging
