@@ -24,7 +24,7 @@ Currently, there is only one way to Authorize with the Tesla API in the app, you
 }
 ```
 
-> refresh_token is mandatory, the rest are optional. Effectively you are Authenticating towards Tesla API yourself (outside the app) and extracting your personal Token which you provide to the app for it to work for your account.
+> "refresh_token" is mandatory, the rest are optional. Effectively you are Authenticating towards Tesla API yourself (outside the app) and extracting your personal Token which you provide to the app for it to work for your account.
 
 ### Steps to generate and provide token to app
 
