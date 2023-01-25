@@ -5,4 +5,5 @@ This website is hosted using Github pages. All my personal projects will be list
 ## Projects
 
 * [wT - Watch app for Tesla](https://haha150.github.io/wT)
+* [wTesla - Watch app for Tesla](https://haha150.github.io/wTesla)
 
