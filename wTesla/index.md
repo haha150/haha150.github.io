@@ -50,6 +50,7 @@ Currently, there are two ways to Authorize with the Tesla API in the app, either
 * Lock/unlock vehicle
 * Turn on/off HVAC
 * Open frunk
+
 ### In-app purchase - Additional features:
 * Open/close trunk
 * Turn on/off sentry mode
