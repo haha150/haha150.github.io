@@ -108,6 +108,6 @@ This app is not endorsed by any EV company. Use at your own risk. No guarantee o
 
 <p float="left">
     <img src="images/iphone14promaxstart.png" width="200">
-    <img src="images/iphone14promaxrefresh.png" width="200">
-    <img src="images/iphone14promaxaccess.png" width="200">
+    <img src="images/iphone11promaxaccess (1).png" width="200">
+    <img src="images/iphone11promaxrefresh (1).png" width="200">
 </p>
