@@ -1,6 +1,6 @@
 # Support
 
-This is the support page for wTesla - Watch app for Tesla. All feature requests, issues, bugs, and questions can be added as an issue on [this](https://github.com/haha150/wT-IOS/issues) github page for further support.
+This is the support page for wTesla - Watch app for Tesla. All feature requests, issues, bugs, and questions can be added as an issue on [this](https://github.com/haha150/wTesla-support/issues) github page for further support.
 
 ## Frequently asked questions
 
@@ -14,4 +14,4 @@ See the documentation on [wTesla Token section](https://haha150.github.io/wTesla
 
 ### My question is not listed here
 
-Create an issue on [this](https://github.com/haha150/wT-IOS/issues) github page.
+Create an issue on [this](https://github.com/haha150/wTesla-support/issues) github page.
