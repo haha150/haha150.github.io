@@ -74,7 +74,7 @@ Currently, there are two ways to Authorize with the Tesla API in the app, either
 
 ## Feature request, bugs, questions or require assistance
 
-Create an issue on [this](https://github.com/haha150/wT-IOS/issues) github page.
+Create an issue on [this](https://github.com/haha150/wTesla-support/issues) github page.
 
 See [support](https://haha150.github.io/wTesla/support).
 
