@@ -10,6 +10,8 @@ The app is still being developed to finish implementing all features that the of
 
 You can purchase all features in the Watch app.
 
+<a href="https://apps.apple.com/us/app/wt-watch-app-for-tesla/id1669061755?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1650067200&h=f0472da4e15471343332be1dcdc56ae8" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 ## Token
 
 Currently, there are two ways to Authorize with the Tesla API in the app, either you generate it in the phone app and send it to the watch or you provide a download link to your token in the app for it to download it and be able to use your account, the token has to be in a specific format, see below snippet:
@@ -111,4 +113,9 @@ This app is not endorsed by any EV company. Use at your own risk. No guarantee o
     <img src="images/iphone14promaxstart.png" width="200">
     <img src="images/iphone11promaxaccess (1).png" width="200">
     <img src="images/iphone11promaxrefresh (1).png" width="200">
+    <img src="images/iphone11promaxactions.png" width="200">
+    <img src="images/iphone11promaxacharging.png" width="200">
+    <img src="images/iphone11promaxclimate.png" width="200">
+    <img src="images/iphone11promaxonline.png" width="200">
+    <img src="images/iphone11promaxvehicles.png" width="200">
 </p>
