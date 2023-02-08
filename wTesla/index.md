@@ -118,4 +118,5 @@ This app is not endorsed by any EV company. Use at your own risk. No guarantee o
     <img src="images/iphone11promaxclimate.png" width="200">
     <img src="images/iphone11promaxonline.png" width="200">
     <img src="images/iphone11promaxvehicles.png" width="200">
+    <img src="images/iphonebuy.png" width="200">
 </p>
