@@ -44,13 +44,13 @@ By using a password manager like Finalpass, you can create and maintain strong, 
 
 ## Feature request, bugs, questions or require assistance
 
-Create an issue on [this](https://github.com/haha150/wTesla-support/issues) github page.
+Create an issue on [this](https://github.com/haha150/finalpass-ios-support/issues) github page.
 
-See [support](https://haha150.github.io/wTesla/support).
+See [support](https://haha150.github.io/finalpass/support).
 
 ## Privacy Policy
 
-See [Privacy Policy](https://haha150.github.io/wTesla/privacy) page.
+See [Privacy Policy](https://haha150.github.io/finalpass/privacy) page.
 
 ## A note about security and privacy
 
