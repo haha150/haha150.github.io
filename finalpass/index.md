@@ -63,5 +63,13 @@ This app is not endorsed by any company or organization. It is an independent ap
 ## Some screenshots on phone:
 
 <p float="left">
-    <img src="images/iphone14promaxstart.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.17.41.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.17.53.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.18.03.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.18.10.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.18.22.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.20.39.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.20.45.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.21.06.png" width="200">
+    <img src="images/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-06 at 20.21.30.png" width="200">
 </p>
