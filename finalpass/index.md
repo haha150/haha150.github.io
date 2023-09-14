@@ -37,7 +37,7 @@ By using a password manager like Finalpass, you can create and maintain strong, 
 * Generate strong passwords
 * Importing and exporting your databases
 * Backup to iCloud (iOS only)
-* Backup from iCloud (iOS only)
+* Restore backup from iCloud (iOS only)
 
 ### Remote (if configured)
 
