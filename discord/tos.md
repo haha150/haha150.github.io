@@ -1,4 +1,4 @@
-# Discord bots terms of service
+# Discord bots
 
 **Terms of service**
 

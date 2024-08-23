@@ -1,4 +1,4 @@
-# Discord bots privacy policy
+# Discord bots
 
 **Privacy Policy**
 
