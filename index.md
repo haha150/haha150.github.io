@@ -6,4 +6,4 @@ This website is hosted using Github pages. All my personal projects will be list
 
 * [wTesla - Watch app for Tesla](https://haha150.github.io/wTesla)
 * [Finalpass](https://haha150.github.io/finalpass)
-* [Finalpass](https://haha150.github.io/discord)
+* [Discord bots](https://haha150.github.io/discord)
